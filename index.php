@@ -7,14 +7,32 @@
    <link rel="stylesheet" href="./material.min.css">
 
    <script src="./material.min.js"></script>
+<style>
 
-   
-
-   <style type="text/css">
-
-
-
-  </style>
+			.ml-card-square{
+				width: 100%;
+			}
+			.mdl-card__title {
+				color: #fff;
+				height: 60px;
+				background-color:#46B6AC;
+			}
+			.alert{
+				background-color:green;
+			}
+			.warning{
+				background-color:orange;
+			}
+.info{
+				background-color:blue;
+			}
+			tr, td{
+				border-bottom: 1px dashed gray;
+				color: purple;
+				padding-left: 10px;
+			}
+			
+		</style>
 
 </head>
 
