@@ -14,7 +14,7 @@
 			}
 			.mdl-card__title {
 				color: #fff;
-				height: 60px;
+				height: 90px;
 				background-color:#46B6AC;
 			}
 			.alert{
