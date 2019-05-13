@@ -61,7 +61,7 @@
 
         </div>
         
-      </div>
+     
       <div class="mdl-cell mdl-cell--6-col">
         
         <div class="ml-card-square mdl-card mdl-shadow--2dp">
