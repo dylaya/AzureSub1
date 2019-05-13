@@ -22,7 +22,7 @@
 
   <div class="mdl-layout mdl-js-layout">
     <header class="mdl-layout__header">
-      <div class="mdl-layout__header-row" style="background-color:yellow">
+      <div class="mdl-layout__header-row" style="background-color:blue">
         <span class="mdl-layout__title">REGISTER HERE!</span>
       </div>
     </header>
@@ -148,7 +148,7 @@
 
   if(count($registrants) > 0) {
 
-  echo "<h2>People who are registered:</h2>";
+  echo "<h3>People who are registered:</h3>";
 
   echo "<table>";
 
