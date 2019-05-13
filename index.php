@@ -12,27 +12,7 @@
 
    <style type="text/css">
 
-    /*body { background-color: #fff; border-top: solid 10px #000;
 
-        color: #333; font-size: .85em; margin: 20; padding: 20;
-
-        font-family: "Segoe UI", Verdana, Helvetica, Sans-Serif;
-
-    }
-
-    h1, h2, h3,{ color: #000; margin-bottom: 0; padding-bottom: 0; }
-
-    h1 { font-size: 2em; }
-
-    h2 { font-size: 1.75em; }
-
-    h3 { font-size: 1.2em; }
-
-    table { margin-top: 0.75em; }
-
-    th { font-size: 1.2em; text-align: left; border: none; padding-left: 0; }
-
-    td { padding: 0.25em 2em 0.25em 0em; border: 0 none; }*/
 
   </style>
 
@@ -43,7 +23,7 @@
   <div class="mdl-layout mdl-js-layout">
     <header class="mdl-layout__header">
       <div class="mdl-layout__header-row">
-        <span class="mdl-layout__title">Register Here!</span>
+        <span class="mdl-layout__title">REGISTER HERE!</span>
       </div>
     </header>
     <main class="mdl-layout__content">
@@ -70,8 +50,8 @@
                     <td><input type="text" name="job" id="job"/></td>
                   </tr>
                   <tr>
-                    <td><input type="submit" name="submit" value="Submit" /></td>
-                    <td><input type="submit" name="load_data" value="Load Data" /></td>
+                    <td></td>
+                    <td><input type="submit" name="submit" value="Submit" /><input type="submit" name="load_data" value="Load Data" /></td>
                   </tr>
                 </table>
               </form>
@@ -86,7 +66,7 @@
         
         <div class="ml-card-square mdl-card mdl-shadow--2dp">
           <div class="mdl-card__title mdl-card--expand alert">
-            <h2 class="mdl-card__title-text">People who are registered:</h2>
+            <h2 class="mdl-card__title-text"></h2>
           </div>
           <div class="mdl-card__supporting-text">
             
