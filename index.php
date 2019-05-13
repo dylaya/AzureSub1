@@ -22,7 +22,7 @@
 
   <div class="mdl-layout mdl-js-layout">
     <header class="mdl-layout__header">
-      <div class="mdl-layout__header-row">
+      <div class="mdl-layout__header-row" style="background-color:yellow">
         <span class="mdl-layout__title">REGISTER HERE!</span>
       </div>
     </header>
@@ -31,7 +31,7 @@
         <div class="mdl-cell mdl-cell--6-col">
 
           <div class="ml-card-square mdl-card mdl-shadow--2dp">
-            <div class="mdl-card__title mdl-card--expand" style="background-color:purple">
+            <div class="mdl-card__title mdl-card--expand" style="background-color:green">
               <h2 class="mdl-card__title-text">Fill in your name and email address, then click Submit to register.</h2>
             </div>
             <div class="mdl-card__supporting-text">
